@@ -7,6 +7,7 @@ A modern Android finance application built with Jetpack Compose, featuring an in
 ## Screenshots
 
 > Home screen showing card carousel, finance shortcuts, and the collapsible currency exchange table.
+<img width="636" height="950" alt="image" src="https://github.com/user-attachments/assets/e94ac5b3-a5b7-495d-82ae-967793a3063f" />
 
 ---
 
@@ -154,8 +155,6 @@ implementation("androidx.compose.material3:material3")
 implementation("androidx.compose.material:material-icons-extended")
 implementation("androidx.compose.animation:animation")
 ```
-<img width="636" height="950" alt="image" src="https://github.com/user-attachments/assets/517bcb8e-2586-4dcc-8dee-06b54a777127" />
-
 ---
 
 ## License
